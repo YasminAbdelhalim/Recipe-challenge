@@ -86,7 +86,7 @@ main p{
   margin: 25px 30px;
 }
 
-ul.prep-time{
+section.prep-time{
    background-color: hsl(30, 42%, 95%);
    display: block;
    font-family: 'outfit',sans-serif;
@@ -125,7 +125,7 @@ ul.Ingredients{
 color:hsl(14, 45%, 36%);
 margin:0 0;
 }
-h4{
+h3{
   color:hsl(14, 45%, 36%);
   text-align: left;
   font-family:  'Young Serif',serif;
