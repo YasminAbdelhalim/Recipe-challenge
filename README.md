@@ -15,9 +15,9 @@ This is a simple and responsive recipe website for an omelette dish, made using 
 
 ### 🔗 Links
 
-- **Solution URL**: [Frontend Mentor](https://www.frontendmentor.io/solutions/your-solution-link)
-- **Live Site URL**: [Live Demo](https://your-live-site-link.com)
-
+- **Solution URL**: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-css-by-media-query-d4ZDJ5h7PT)
+- **Live Site URL**: [Live Demo](https://yasminabdelhalim.github.io/Recipe-challenge/)
+h
 ---
 
 ## 🧠 My Process
